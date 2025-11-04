@@ -9,6 +9,36 @@
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.53f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
+    "com.unity.ai.navigation@2.0.8": {
+      "name": "com.unity.ai.navigation",
+      "displayName": "AI Navigation",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.ai.navigation@eb5635ad590d",
+      "fingerprint": "eb5635ad590d47cef2a5c920d9475cc222db3f67",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "2.0.8",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.burst@1.8.23": {
+      "name": "com.unity.burst",
+      "displayName": "Burst",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.burst@6aff1dd08a0c",
+      "fingerprint": "6aff1dd08a0c2f92ddb7f56ec033a5cb88967056",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.8.23",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.cinemachine@2.10.4": {
+      "name": "com.unity.cinemachine",
+      "displayName": "Cinemachine",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.cinemachine@915237edaa40",
+      "fingerprint": "915237edaa40461a941e260ca123faf48eaf6a40",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "2.10.4",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.collab-proxy@2.10.1": {
       "name": "com.unity.collab-proxy",
       "displayName": "Unity Version Control",
@@ -19,6 +49,26 @@
       "source": "registry",
       "testable": false
     },
+    "com.unity.collections@2.5.1": {
+      "name": "com.unity.collections",
+      "displayName": "Collections",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.collections@56bff8827a7e",
+      "fingerprint": "56bff8827a7ef6d44fcee4f36e558a74da89c1a0",
+      "editorCompatibility": "2022.3.11f1",
+      "version": "2.5.1",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ext.nunit@2.0.5": {
+      "name": "com.unity.ext.nunit",
+      "displayName": "Custom NUnit",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.ext.nunit@031a54704bff",
+      "fingerprint": "031a54704bffe39e6a0324909f8eaa4565bdebf2",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.5",
+      "source": "builtin",
+      "testable": false
+    },
     "com.unity.feature.development@1.0.2": {
       "name": "com.unity.feature.development",
       "displayName": "Engineering",
@@ -26,6 +76,26 @@
       "fingerprint": "767aadbc6eb72681a4ca807c8fa248e0230a0cef",
       "version": "1.0.2",
       "source": "builtin",
+      "testable": false
+    },
+    "com.unity.ide.rider@3.0.36": {
+      "name": "com.unity.ide.rider",
+      "displayName": "JetBrains Rider Editor",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.ide.rider@4d374c7eb6db",
+      "fingerprint": "4d374c7eb6db6907c7e6925e3086c3c73f926e13",
+      "editorCompatibility": "2019.4.6f1",
+      "version": "3.0.36",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ide.visualstudio@2.0.23": {
+      "name": "com.unity.ide.visualstudio",
+      "displayName": "Visual Studio Editor",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.ide.visualstudio@198cdf337d13",
+      "fingerprint": "198cdf337d13c83ca953581515630d66b779e92b",
+      "editorCompatibility": "2019.4.25f1",
+      "version": "2.0.23",
+      "source": "registry",
       "testable": false
     },
     "com.unity.inputsystem@1.14.0": {
@@ -38,6 +108,16 @@
       "source": "registry",
       "testable": false
     },
+    "com.unity.mathematics@1.3.2": {
+      "name": "com.unity.mathematics",
+      "displayName": "Mathematics",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.mathematics@8017b507cc74",
+      "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.3.2",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
@@ -46,6 +126,96 @@
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
       "source": "builtin",
+      "testable": false
+    },
+    "com.unity.nuget.mono-cecil@1.11.4": {
+      "name": "com.unity.nuget.mono-cecil",
+      "displayName": "Mono Cecil",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.nuget.mono-cecil@d6f9955a5d5f",
+      "fingerprint": "d6f9955a5d5f84d45442ff1ad0fb694cc6e2fd62",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "1.11.4",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.package-validation-suite@0.22.0-preview": {
+      "name": "com.unity.package-validation-suite",
+      "displayName": "Package Validation Suite",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.package-validation-suite@536239bd7458",
+      "fingerprint": "536239bd7458d9cf088755abe3972aa68f6ab0d4",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "0.22.0-preview",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.render-pipelines.core@17.0.4": {
+      "name": "com.unity.render-pipelines.core",
+      "displayName": "Scriptable Render Pipeline Core",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.render-pipelines.core@3a084e1eb46b",
+      "fingerprint": "3a084e1eb46b9a3b8c3c7cad52309c692c917197",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.4",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.render-pipelines.universal@17.0.4": {
+      "name": "com.unity.render-pipelines.universal",
+      "displayName": "Universal Render Pipeline",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@63585d5be1b1",
+      "fingerprint": "63585d5be1b1e04f3a075d5c26ccc71f4d4479e9",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.4",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.render-pipelines.universal-config@17.0.3": {
+      "name": "com.unity.render-pipelines.universal-config",
+      "displayName": "Universal Render Pipeline Config",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.render-pipelines.universal-config@dd206bf35d04",
+      "fingerprint": "dd206bf35d0451204981fdb31d4c6831a0ee2a7e",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.rendering.light-transport@1.0.1": {
+      "name": "com.unity.rendering.light-transport",
+      "displayName": "Unity Light Transport Library",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.rendering.light-transport@9bd588f963c0",
+      "fingerprint": "9bd588f963c0ca6105f0978f9cfc66444032a804",
+      "editorCompatibility": "2023.3.0b1",
+      "version": "1.0.1",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.shadergraph@17.0.4": {
+      "name": "com.unity.shadergraph",
+      "displayName": "Shader Graph",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.shadergraph@8939c506bcb4",
+      "fingerprint": "8939c506bcb4e6cb9edc99eab7cbd4a46d620f38",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.4",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.test-framework@1.5.1": {
+      "name": "com.unity.test-framework",
+      "displayName": "Test Framework",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.test-framework@dfdbd02f5918",
+      "fingerprint": "dfdbd02f59180baa5668370b8f71f6fbeaa3b032",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "1.5.1",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.test-framework.performance@3.1.0": {
+      "name": "com.unity.test-framework.performance",
+      "displayName": "Performance testing API",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.test-framework.performance@92d1d09a72ed",
+      "fingerprint": "92d1d09a72ed696fa23fd76c675b29d211664b50",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "3.1.0",
+      "source": "registry",
       "testable": false
     },
     "com.unity.timeline@1.8.7": {
@@ -142,6 +312,14 @@
       "source": "builtin",
       "testable": false
     },
+    "com.unity.modules.hierarchycore@1.0.0": {
+      "name": "com.unity.modules.hierarchycore",
+      "displayName": "Hierarchy Core",
+      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.53f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.hierarchycore",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
     "com.unity.modules.imageconversion@1.0.0": {
       "name": "com.unity.modules.imageconversion",
       "displayName": "Image Conversion",
@@ -194,6 +372,14 @@
       "name": "com.unity.modules.screencapture",
       "displayName": "Screen Capture",
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.53f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.screencapture",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.subsystems@1.0.0": {
+      "name": "com.unity.modules.subsystems",
+      "displayName": "Subsystems",
+      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.53f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.subsystems",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -334,39 +520,13 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.modules.subsystems@1.0.0": {
-      "name": "com.unity.modules.subsystems",
-      "displayName": "Subsystems",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.53f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.subsystems",
-      "version": "1.0.0",
-      "source": "builtin",
-      "testable": false
-    },
-    "com.unity.modules.hierarchycore@1.0.0": {
-      "name": "com.unity.modules.hierarchycore",
-      "displayName": "Hierarchy Core",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.53f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.hierarchycore",
-      "version": "1.0.0",
-      "source": "builtin",
-      "testable": false
-    },
-    "com.unity.ide.visualstudio@2.0.23": {
-      "name": "com.unity.ide.visualstudio",
-      "displayName": "Visual Studio Editor",
-      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.ide.visualstudio@198cdf337d13",
-      "fingerprint": "198cdf337d13c83ca953581515630d66b779e92b",
-      "editorCompatibility": "2019.4.25f1",
-      "version": "2.0.23",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.ide.rider@3.0.36": {
-      "name": "com.unity.ide.rider",
-      "displayName": "JetBrains Rider Editor",
-      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.ide.rider@4d374c7eb6db",
-      "fingerprint": "4d374c7eb6db6907c7e6925e3086c3c73f926e13",
-      "editorCompatibility": "2019.4.6f1",
-      "version": "3.0.36",
+    "com.unity.searcher@4.9.3": {
+      "name": "com.unity.searcher",
+      "displayName": "Searcher",
+      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.searcher@1e17ce91558d",
+      "fingerprint": "1e17ce91558d1d9127554adc03d275f39a7466a2",
+      "editorCompatibility": "2019.1.0a1",
+      "version": "4.9.3",
       "source": "registry",
       "testable": false
     },
@@ -390,16 +550,6 @@
       "source": "registry",
       "testable": false
     },
-    "com.unity.test-framework@1.5.1": {
-      "name": "com.unity.test-framework",
-      "displayName": "Test Framework",
-      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.test-framework@dfdbd02f5918",
-      "fingerprint": "dfdbd02f59180baa5668370b8f71f6fbeaa3b032",
-      "editorCompatibility": "2022.3.0a1",
-      "version": "1.5.1",
-      "source": "builtin",
-      "testable": false
-    },
     "com.unity.testtools.codecoverage@1.2.6": {
       "name": "com.unity.testtools.codecoverage",
       "displayName": "Code Coverage",
@@ -418,16 +568,6 @@
       "editorCompatibility": "2022.3.0a1",
       "version": "2.1.0",
       "source": "registry",
-      "testable": false
-    },
-    "com.unity.ext.nunit@2.0.5": {
-      "name": "com.unity.ext.nunit",
-      "displayName": "Custom NUnit",
-      "resolvedPath": "D:\\Profiles\\jh6028\\Documents\\GitHub\\IGME219\\Final Project\\Library\\PackageCache\\com.unity.ext.nunit@031a54704bff",
-      "fingerprint": "031a54704bffe39e6a0324909f8eaa4565bdebf2",
-      "editorCompatibility": "2019.4.0a1",
-      "version": "2.0.5",
-      "source": "builtin",
       "testable": false
     }
   }
